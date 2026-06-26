@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+mysql-connector-python
+opencv-python
+numpy
+pytesseract
+python-multipart
+Pillow
